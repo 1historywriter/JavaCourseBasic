@@ -19,5 +19,6 @@ public class ModuloExamples {
             int number4 = 20;
             int remainder4 = number4 % 3;
             System.out.println("Остаток от деления " + number4 + " на 3: " + remainder4);
+
         }
 }
